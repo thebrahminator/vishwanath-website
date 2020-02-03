@@ -48,7 +48,7 @@ social:
   link: https://twitter.com/__vishwanath__
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/thebrahminator
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-Vishwanath Seshagiri is a first year PhD Student at [Emory University's](cs.emory.edu) Computer Science Department. He works in Simbiosys Lab's Systems Group, supervised by Dr. Avani Wildani and Dr. Ymir Vigfusson. His research interests include Distributed Caching, Network Flow Analysis and Queueing Theory. In his free time, he enjoys reading, and exploring new music options!
+Vishwanath Seshagiri is a first year PhD Student at [Emory University's](cs.emory.edu) Computer Science Department. He works in Simbiosys Lab's Systems Group, supervised by [Dr. Avani Wildani](http://www.mathcs.emory.edu/~avani/) and [Dr. Ymir Vigfusson](http://ymsir.com/). His research interests include Distributed Caching, Network Flow Analysis and Queueing Theory. In his free time, he enjoys cooking, reading, and exploring new music options!
