@@ -41,4 +41,10 @@ date_format = "Jan 2006"
   date_end = "2016-12-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
+[[experience]]
+  title = "Research Trainee"
+  company = "Waran Research Foundation"
+  company_url = ""
+  location = "Chennai, India"
+  date_start = "2015-"
 +++
