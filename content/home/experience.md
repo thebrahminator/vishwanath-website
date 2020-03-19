@@ -46,5 +46,6 @@ date_format = "Jan 2006"
   company = "Waran Research Foundation"
   company_url = ""
   location = "Chennai, India"
-  date_start = "2015-"
+  date_start = "2015-07-01"
+  date_end = "2016-03-30"
 +++
